@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "サ終あざした",
+  "base_artist": "あばらや",
+  "createdAt": "2025-12-31T11:22:30.135560Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サ終あざした",
+      "artist": "あばらや",
+      "has_synced": false,
+      "path": "select/pl_01_サ終あざした_あばらや.txt"
+    }
+  ]
+}
